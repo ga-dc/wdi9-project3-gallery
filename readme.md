@@ -1,4 +1,4 @@
-8 Project3 Gallery
+# WDI9 Project3 Gallery
 
 [Project 3 info here.](https://github.com/ga-wdi-exercises/project3)
 
